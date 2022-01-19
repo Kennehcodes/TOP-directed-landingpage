@@ -1,0 +1,78 @@
+/**fonts**/
+.logo {
+    font-family: 'Grandstander', cursive;
+     font-size: 24px;
+    font-weight: 100;
+    color: #f9faf8; 
+}
+.menu { font-family: 'Grandstander', cursive; 
+    font-weight: 300;
+    
+
+}
+
+                    a:link {
+                        text-decoration: none;
+                        color:rgb(107, 177, 224);
+                    } 
+                    a:hover {
+                        color: rgba(107, 177, 224, 0.3);
+                    }
+                    a:active {
+                        color: rgba(0, 0 ,0 , 0.1 );
+                    }
+                    a {
+                        color: rgb(107, 177, 224);
+                    }
+                    a:visited {
+                        color: rgb(100, 174, 220);
+                    }
+.hero-text { 
+    font-family: 'Grandstander', cursive; 
+    font-weight: 800; 
+    color: #F9faf8;
+    font-size: 48px; }
+.phero {
+     font-size: 18px;
+      font-weight: 200;
+      color: #e5e7eb;
+    }
+button { 
+    font-family: 'Grandstander', cursive;
+    /**not font**/
+    background-color: #3882f6;  
+    color: #fff; 
+    padding: 12px; 
+    text-decoration: none;
+}
+
+h2 {
+    font-family: 'Grandstander', cursive;
+     font-size: 36px;
+     color: #1f2937;
+      font-weight: 900;}
+
+
+.quotebox {
+    font-family: 'Grandstander',  cursive;
+     font-size: 36px;
+      font-style: italic ;
+       font-weight: 200;
+       color: #1f2937;
+    background-color: #e5e7eb;}
+
+.hero, footer, header { background-color: #1f2937;}
+       
+.dad { flex: 1 1; width: 620; height: auto; }
+.card { 
+        width: 200px; height: auto; padding: 25px; margin: 23px; }
+
+h2 {margin: 10,0; 
+    padding: 15px ; 
+    flex: 1 ; }
+.contentsection1 {display: flex; justify-content: center; 
+gap: 20px; flex-wrap: wrap;  }
+.card { width: 250px;}
+
+.quotebox {display: flex;}
+footer {display: flex;}**/
